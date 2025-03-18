@@ -1,0 +1,10 @@
+[package]
+name = "gaws-generator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.97"
+clap = { version = "4.5.32", features = ["derive"] }
+yaml-rust = "0.4.5"
+
