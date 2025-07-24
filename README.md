@@ -1,3 +1,4 @@
 # GAWs - Github Actions Workflows Generator
 
-<!-- GitAds-Verify: VNGD99N7BSUC7ORRWH6G9SSMH1SZJQDG -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=winphay/gaws@github)](https://gitads.dev/v1/ad-track?source=winphay/gaws@github)
